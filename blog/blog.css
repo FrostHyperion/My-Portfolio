@@ -37,7 +37,7 @@ nav ul {
   /* justify-content: right; */
 }
 a:hover {
-  /* background-color: whitesmoke; */
+  background-color: whitesmoke;
   color: black;
   /* opacity: 0.4; */
   border-radius: 10px;
