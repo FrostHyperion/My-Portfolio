@@ -43,3 +43,4 @@ Because they have come across these. same problems and also the blogs are relata
 ## Please describe how/where to access or run your website:
 
 ### The website is hosted on netlify and can be accessed on the link:
+https://friendly-perlman-9f59ab.netlify.app/index.html
