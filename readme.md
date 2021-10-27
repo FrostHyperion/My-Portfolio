@@ -8,17 +8,23 @@ Most of my blogs revolve around the web-dev, but not limited to it. I also write
 
 ## Create a persona for one reader of your blog and answer the following questions.
 
-### What is your reader’s name? Alex
+ ### What is your reader’s name?
+  Name of my reader is alex
 
-### What demographic do they fall into? Urban Population
+### What demographic do they fall into?
+ He belonges to Urban Population, Well educated and loves building applications.
 
-### Where do they live? Big City
+ ### Where do they live? 
+ He lives in a big city somewhere in the world.
 
-### What is their job/role? Software Developer (WFH)
+ ### What is their job/role? 
+ He is a Software Developer, Who is working from home right now.
 
-### What do they enjoy for fun? Online Gaming
+ ### What do they enjoy for fun?
+  He loves to spend quality time on reading books.
 
-Why do they read your blog? Because they have come across these. same problems and also the blogs are relatable.
+### Why do they read your blog? 
+ Because they have come across these. same problems and also the blogs are relatable.
 
 ### Website Instructions:
 
